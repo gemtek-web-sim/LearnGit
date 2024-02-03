@@ -4,4 +4,4 @@ Main change 2
 feature1 change 1
 Change
 Modify main to adapt with feature 1
-Change main to adapt with feature 2
+Change main to adapt with feature 2 -- adapt more
