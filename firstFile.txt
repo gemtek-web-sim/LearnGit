@@ -2,3 +2,4 @@ My first file
 Main change
 Main change 2
 feature1 change 1
+Modify main to adapt with feature 1
