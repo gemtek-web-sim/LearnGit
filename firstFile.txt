@@ -7,4 +7,7 @@ Modify main to adapt with feature 1
 Main continue
 Change main to adapt with feature 2 -- adapt more
 Change from local
-Change from remote 1
+Change from remote 3 1
+Change from remote 3
+
+Make pull request
